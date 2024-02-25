@@ -2184,11 +2184,9 @@ a {
 	border-radius: 22px;
 	box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
 }
-.introduction{
-	padding: 2%;
-    border: 2px solid rgba(18, 62, 148, 0);
-    border-radius: 22px;
-    box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
+.project_texs{
+	display: block;
+    text-align: justify;
 }
 /* Articles */
 
